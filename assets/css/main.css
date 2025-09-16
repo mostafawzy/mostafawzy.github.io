@@ -546,6 +546,9 @@ section,
   z-index: 2;
 }
 
+
+
+
 @media (max-width: 991px) {
   .hero .hero-content {
     padding: 60px 30px;
@@ -3164,6 +3167,8 @@ section,
   .service-details .service-sidebar {
     margin-top: 30px;
   }
+
+  
 }
 
 /*--------------------------------------------------------------
